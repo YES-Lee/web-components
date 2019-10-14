@@ -1,0 +1,17 @@
+{
+  "name": "web-components",
+  "version": "1.0.0",
+  "description": "web components demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-components",
+    "html",
+    "javascript",
+    "component"
+  ],
+  "author": "Johnson",
+  "license": "MIT"
+}
